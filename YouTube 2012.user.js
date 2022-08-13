@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         Ciulin's YouTube
+// @name         YouTube 2012
 // @namespace    https://www.youtube.com/*
 // @version      0.5.41
 // @description  Broadcast Yourself
-// @author       CiulinUwU
+// @author       jr
 // @updateURL    https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/Ciulin's%20YouTube.user.js
 // @downloadURL  https://github.com/ciulinuwu/ciulin-s-youtube/raw/main/Ciulin's%20YouTube.user.js
 // @match        https://www.youtube.com/*
